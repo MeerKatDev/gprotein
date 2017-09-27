@@ -1,0 +1,11 @@
+{
+  "name": "gprotein",
+  "version": "0.0.1",
+  "description": "GProtein animation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Luca",
+  "license": "ISC"
+}
